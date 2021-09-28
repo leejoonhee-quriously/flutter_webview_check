@@ -120,7 +120,7 @@ app.*.symbols
 # Credential Files
 ~/
 
-# Window
+# Desktop
 /winuwp
 /windows
 /macos
